@@ -1,4 +1,4 @@
 # Belajar Git
-silakan ajukan pull request 
-saya tidak tau ini apa
+Silakan ajukan pull request  
+Saya tidak tahu ini apa
 
